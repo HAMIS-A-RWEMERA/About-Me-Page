@@ -39,7 +39,7 @@ I'm dedicated to writing clean, maintainable code and solving complex problems. 
 ### Project One
 Brief description of what this project does and why it's interesting.
 - **Tech Stack:** JavaScript, React, Node.js
-- **Repository:** [Link to repo]
+- **Repository:** (Coming soon)
 
 ### Project Two
 Brief description of what this project accomplishes.
@@ -61,9 +61,9 @@ Brief description of your third featured project.
 
 I'm always interested in discussing projects, ideas, and opportunities for collaboration!
 
-- 📧 Email: [your-email@example.com]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [@yourhandle]
+- 📧 Email: hamis.rwemera24snhu@keplercollege.ac.rw
+- 🔗 LinkedIn: N/A
+- 🐦 Twitter: @AllyRwemera
 - 💻 Personal Website: [your-website.com]
 
 ## 📖 Latest Blog Posts
