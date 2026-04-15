@@ -1,4 +1,4 @@
-djdncnsj# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
 Hello! I'm a passionate developer committed to building innovative solutions and contributing to the open-source community. This is my space for showcasing projects, sharing knowledge, and collaborating with fellow developers.
 
